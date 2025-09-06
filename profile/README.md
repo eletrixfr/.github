@@ -1,11 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-# Github Organization list :
+Welcome :D
+
+## Github Organization list :
 
 [@eletrixfr](https://github.com/eletrixfr) > Serious project not linked to CryptDev 
 
 [@cryptdev-gh](https://github.com/cryptdev-gh) > CryptDev github :)))
 
-# Members :
+## Members :
 
 [@eletrixtime](https://github.com/eletrixtime) > Me :)
